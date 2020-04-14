@@ -2335,7 +2335,7 @@ blockquote footer cite:before {
 #footer {
   position: relative;
   margin-top: 1rem;
-  background: url("/img/footbar.png");
+  background: url("https://cdn.jsdelivr.net/gh/GitHubEarth/CDN/img/2020/04/9_footbar.png");
   background-attachment: local;
   background-position: bottom;
   -webkit-background-size: cover;
