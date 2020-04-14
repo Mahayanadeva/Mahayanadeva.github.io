@@ -2956,8 +2956,8 @@ figure.gallery-group .gallery-group-name:after {
   margin: 1rem auto;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items {
-  margin-bottom: 5rem;
-  padding: 0 0.5rem;
+  margin-bottom: 2.5rem;
+  padding: 0 0.8rem 0 0.5rem;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items .site-page {
   position: relative;
@@ -3014,7 +3014,7 @@ figure.gallery-group .gallery-group-name:after {
   transform: rotate(180deg) !important;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items .menus_item_child {
-  margin: 0;
+  margin: 0 0 0 -40px;
   list-style: none;
 }
 .note {
