@@ -1984,7 +1984,7 @@ blockquote footer cite:before {
 #aside_content .card-info #bookmark-it {
   position: relative;
   z-index: 1;
-  display: block;
+  display: inline-block;
   background-color: #ff7ad7;
   color: #fff;
   text-transform: uppercase;
@@ -1992,6 +1992,20 @@ blockquote footer cite:before {
 }
 #aside_content .card-info #bookmark-it span {
   padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+#aside_content .card-info #bookmark-it-cc {
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  background-color: #6495ed;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 1.6rem;
+}
+#aside_content .card-info #bookmark-it-cc span {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
 }
 #aside_content .card-content {
   padding: 1rem 1.2rem;
@@ -2957,7 +2971,7 @@ figure.gallery-group .gallery-group-name:after {
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items {
   margin-bottom: 2.5rem;
-  padding: 0 0.8rem 0 0.5rem;
+  padding: 0 0.5rem 0 0.3rem;
 }
 #mobile-sidebar #mobile-sidebar-menus .menus_items .site-page {
   position: relative;
