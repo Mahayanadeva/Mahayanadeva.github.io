@@ -45,8 +45,9 @@ iframe {
   background-color: #FFF
 }
 
-
-
+.card-ad {
+  line-height: .8;
+}
 
 .calendar {
     width: 280px;
