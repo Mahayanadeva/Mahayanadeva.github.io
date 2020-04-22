@@ -40,6 +40,7 @@
 
 .fa-google-plus:before { color:#FF7AD7; }
 
+
 iframe {
   margin: 0 0 -.45rem;
   background-color: #FFF
@@ -48,6 +49,18 @@ iframe {
 .card-ad {
   line-height: .75;
 }
+
+
+.icon-demo {
+    color: #fff;
+    padding: 2px 5px;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 1;
+}
+
+
 
 .calendar {
     width: 280px;
